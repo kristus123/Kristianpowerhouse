@@ -1,5 +1,4 @@
 gks
 kgs
 kg
-ksgk
-deleting some shit
+bugfixing right away
